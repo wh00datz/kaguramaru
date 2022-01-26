@@ -26,12 +26,12 @@ Hello! Welcome to my GitHub Page. You can find my participations in CTF, events,
 [//]:![Python101](https://user-images.githubusercontent.com/92495243/151195119-47e0a0bb-0bb2-470d-bf45-75f4ec67a104.png)
 [//]:![Python201](https://user-images.githubusercontent.com/92495243/151193015-a7804389-8b8f-4d79-8db2-2932acb8421e.png)
 [//]:![PracticalMalwareAnalysis](https://user-images.githubusercontent.com/92495243/151193022-263046df-e59f-4c54-a21e-5dfcff24b201.png)
-[//]:![ExternalPentestPlaybook](https://user-images.githubusercontent.com/92495243/151193022-263046df-e59f-4c54-a21e-5dfcff24b201.png)
+[//]:![ExternalPentestPlaybook](https://user-images.githubusercontent.com/92495243/151206372-4bb54b30-84e3-4d28-8cec-1561cef818b5.png)
 
 <img src="https://user-images.githubusercontent.com/92495243/151195119-47e0a0bb-0bb2-470d-bf45-75f4ec67a104.png" width="450" height="330"/>
 <img src="https://user-images.githubusercontent.com/92495243/151193015-a7804389-8b8f-4d79-8db2-2932acb8421e.png" width="450" height="330"/>
 <img src="https://user-images.githubusercontent.com/92495243/151193022-263046df-e59f-4c54-a21e-5dfcff24b201.png" width="450" height="330"/>
-<img src="https://user-images.githubusercontent.com/92495243/151193022-263046df-e59f-4c54-a21e-5dfcff24b201.png" width="450" height="330"/>
+<img src="https://user-images.githubusercontent.com/92495243/151206372-4bb54b30-84e3-4d28-8cec-1561cef818b5.png" width="450" height="330"/>
 
 ### Other Platform
 [//]:![Network](https://user-images.githubusercontent.com/92495243/151206159-1978322d-8875-47d8-82ef-678bc10e3f77.png)
