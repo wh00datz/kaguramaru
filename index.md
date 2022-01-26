@@ -8,7 +8,7 @@ I'm interested in Reverse Engineering and Pentesting in general.
 
 I like to **code** in Python 🐍, however I'm trying to expand my Programming Language with C/C++ and Go at the moment.
 
-My **goal** for 2022 is to get used to PowerShell Commands, Windows API, more Bash scripting, reproduce more CVE, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
+My **goal** for 2022 is to get used to PowerShell Commands, Windows API, more Bash scripting, reproduce more CVE, Active Directory, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
 
 For certificate, I'm aiming to score eJPT, Burp Suite Certified Practitioner, PNPT and CRTO by the end of this year.
 
