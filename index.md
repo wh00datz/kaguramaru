@@ -34,14 +34,14 @@ Hello! Welcome to my GitHub Page. You can find my participations in CTF, events,
 <img src="https://user-images.githubusercontent.com/92495243/151193022-263046df-e59f-4c54-a21e-5dfcff24b201.png" width="450" height="330"/>
 
 ### Other Platform
-[//]:![Network](https://user-images.githubusercontent.com/92495243/151202877-55957744-e89d-477d-bd37-a7ca4fefcf0f.png)
-<img src="https://user-images.githubusercontent.com/92495243/151202877-55957744-e89d-477d-bd37-a7ca4fefcf0f.png" width="450"/>
+[//]:![Network](https://user-images.githubusercontent.com/92495243/151206159-1978322d-8875-47d8-82ef-678bc10e3f77.png)
+<img src="https://user-images.githubusercontent.com/92495243/151206159-1978322d-8875-47d8-82ef-678bc10e3f77.png" width="450"/>
 
 [//]:![BugBountyIntro](https://udemy-certificate.s3.amazonaws.com/image/UC-013d19ff-5aa3-441d-b646-2641f8193330.jpg?v=1641680246000)
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-013d19ff-5aa3-441d-b646-2641f8193330.jpg?v=1641680246000" width="450" height="330"/>
 
-[//]:![Hacking-Seminar-2021](https://user-images.githubusercontent.com/92495243/151202524-1a74ed76-2471-433c-92da-c1d48a34ea75.png)
-<img src="https://user-images.githubusercontent.com/92495243/151202524-1a74ed76-2471-433c-92da-c1d48a34ea75.png" width="450" height="330"/>
+[//]:![Hacking-Seminar-2021](https://user-images.githubusercontent.com/92495243/151205821-f523495c-0aae-4179-91e3-4df55e8d8133.png)
+<img src="https://user-images.githubusercontent.com/92495243/151205821-f523495c-0aae-4179-91e3-4df55e8d8133.png" width="450" height="330"/>
 
 [//]:![kaguramaru-Python](https://user-images.githubusercontent.com/92495243/141872659-193c4ec6-1fa3-4ac1-8da9-d15654adcabe.png)
 <img src="https://user-images.githubusercontent.com/92495243/141872659-193c4ec6-1fa3-4ac1-8da9-d15654adcabe.png" width="450" height="330"/>
