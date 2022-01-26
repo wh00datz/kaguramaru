@@ -1,9 +1,22 @@
-# Welcome to GitHub Pages
+# old's den
 
-Hello! Welcome to my GitHub Page. You can find my participations in CTF, events, certificates and hackathon
+Welcome! I'm k4gura
 
+Here are some of my participations in past CTFs, events, certificates and hackathon.
+I'm interested in Reverse Engineering and Pentesting in general.
 
-## CERTIFICATION
+I like to code in Python 🐍, however I'm trying to expand my Programming Language with C/C++ and Go at the moment.
+
+My goal for 2022 is to get used to PowerShell Commands, Windows API, more Bash scripting, reproduce more CVE, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
+
+For certificate, I'm aiming to score eJPT, Burp Suite Certified Practitioner, PNPT and CRTO by the end of this year.
+
+Currently incorporating reading at least 30 minutes before sleep for my self-growth.
+
+[//]:![HowToThinkFastAndSlow]
+<img src="https://user-images.githubusercontent.com/92495243/151209976-e6dffde9-cc4e-4502-9087-98f3cccbba1c.png"/>
+
+## CERTIFICATIONS
 
 ### Capture-The-Flags (CTFs)
 [//]:![HTB-Santa](https://user-images.githubusercontent.com/92495243/151197588-a134f24d-c24e-4727-b511-f66d1522aa9e.png)
@@ -33,15 +46,15 @@ Hello! Welcome to my GitHub Page. You can find my participations in CTF, events,
 <img src="https://user-images.githubusercontent.com/92495243/151193022-263046df-e59f-4c54-a21e-5dfcff24b201.png" width="450" height="330"/>
 <img src="https://user-images.githubusercontent.com/92495243/151206372-4bb54b30-84e3-4d28-8cec-1561cef818b5.png" width="450" height="330"/>
 
-### Other Platform
+### Other Platform (Physical, Udemy, etc)
 [//]:![Network](https://user-images.githubusercontent.com/92495243/151206159-1978322d-8875-47d8-82ef-678bc10e3f77.png)
 <img src="https://user-images.githubusercontent.com/92495243/151206159-1978322d-8875-47d8-82ef-678bc10e3f77.png" width="450"/>
 
 [//]:![BugBountyIntro](https://udemy-certificate.s3.amazonaws.com/image/UC-013d19ff-5aa3-441d-b646-2641f8193330.jpg?v=1641680246000)
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-013d19ff-5aa3-441d-b646-2641f8193330.jpg?v=1641680246000" width="450" height="330"/>
 
-[//]:![Hacking-Seminar-2021](https://user-images.githubusercontent.com/92495243/151205821-f523495c-0aae-4179-91e3-4df55e8d8133.png)
-<img src="https://user-images.githubusercontent.com/92495243/151205821-f523495c-0aae-4179-91e3-4df55e8d8133.png" width="450" height="330"/>
+[//]:![Hacking-Seminar-2021](https://user-images.githubusercontent.com/92495243/151207123-11fde578-2ff9-4a3a-96c4-6f664d2a2514.png)
+<img src="https://user-images.githubusercontent.com/92495243/151207123-11fde578-2ff9-4a3a-96c4-6f664d2a2514.png" width="450" height="330"/>
 
 [//]:![kaguramaru-Python](https://user-images.githubusercontent.com/92495243/141872659-193c4ec6-1fa3-4ac1-8da9-d15654adcabe.png)
 <img src="https://user-images.githubusercontent.com/92495243/141872659-193c4ec6-1fa3-4ac1-8da9-d15654adcabe.png" width="450" height="330"/>
