@@ -7,12 +7,12 @@ Hello! Welcome to my GitHub Page. You can find my participations in CTF, events,
 
 ### Capture-The-Flags (CTFs)
 [//]:![HTB-Santa](https://user-images.githubusercontent.com/92495243/151197588-a134f24d-c24e-4727-b511-f66d1522aa9e.png)
-[//]:![Hack10@UNITEN](https://user-images.githubusercontent.com/92495243/151197904-a48831e6-38e7-4171-9f40-f6b33fbddfc3.png)
-[//]:![H1D3-N-S33K](https://user-images.githubusercontent.com/92495243/151203303-53f64d3d-6617-4e33-aa80-a52da34a6a0c.png)
+[//]:![Hack10@UNITEN](https://user-images.githubusercontent.com/92495243/151204811-e96d33ea-ddd0-4df6-9d23-6664e5ea8bf9.png)
+[//]:![H1D3-N-S33K](https://user-images.githubusercontent.com/92495243/151205054-b531809f-c59a-4341-b919-dd0928742a8e.png)
 
 <img src="https://user-images.githubusercontent.com/92495243/151197588-a134f24d-c24e-4727-b511-f66d1522aa9e.png" width="450" height="330"/>
-<img src="https://user-images.githubusercontent.com/92495243/151197904-a48831e6-38e7-4171-9f40-f6b33fbddfc3.png" width="450" height="400"/>
-<img src="https://user-images.githubusercontent.com/92495243/151203303-53f64d3d-6617-4e33-aa80-a52da34a6a0c.png" width="450"/>
+<img src="https://user-images.githubusercontent.com/92495243/151204811-e96d33ea-ddd0-4df6-9d23-6664e5ea8bf9.png" width="450" height="400"/>
+<img src="https://user-images.githubusercontent.com/92495243/151205054-b531809f-c59a-4341-b919-dd0928742a8e.png" width="450"/>
 
 ### TryHackMe Learning Path
 
