@@ -9,14 +9,14 @@
 <a href="https://medium.com/@kaguramaru11"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br><br>
 
-###### Here are some of my participations in past CTFs, events, certificates and hackathon.
-###### I'm interested in Reverse Engineering and Pentesting in general.
+Here are some of my participations in past CTFs, events, certificates and hackathon.
+I'm interested in Reverse Engineering and Pentesting in general.
 
-###### I like to **code** in Python🐍, however I'm expanding my Programming Language with C/C++ and Go at the moment.
+I like to **code** in Python🐍, however I'm expanding my Programming Language with C/C++ and Go at the moment.
 
-###### My **goal** for 2022 is to get used to PowerShell Commands, Windows API, more Bash scripting, reproduce more CVE, Active Directory, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
+My **goal** for 2022 is to get used to PowerShell Commands, Windows API, more Bash scripting, reproduce more CVE, Active Directory, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
 
-###### For certificate, I'm aiming to score eJPT, Burp Suite Certified Practitioner, PNPT and CRTO by the end of this year.
+For certificate, I'm aiming to score eJPT, Burp Suite Certified Practitioner, PNPT and CRTO by the end of this year.
 
 ##### Currently incorporating reading at least 20 minutes before sleep as a habit for my self-growth.
 
