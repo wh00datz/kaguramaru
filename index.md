@@ -1,18 +1,26 @@
 # old's den
 ## "be the good one in these hard times"
+![banenr](https://user-images.githubusercontent.com/92495243/141692617-d57afdff-e0a0-438e-bd90-6b254272a95a.png)
 
-Welcome! I'm k4gura
+<br>
+<a href="https://www.linkedin.com/in/azwan-izhar-20519b101/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@kaguramaru11"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<br>
+<a href="https://tryhackme.com/p/kaguramaru"> <img src="https://tryhackme-badges.s3.amazonaws.com/kaguramaru.png" alt="TryHackMe" border="0" width="220" height="50"></a>
+<a href="https://blueteamlabs.online/public/user/8e6ecaad88cd735c6cd755"><img src="https://i.ibb.co/gb0VP4S/image.png" alt="image" border="0" width="220" height="50"></a>
+<a href="https://app.hackthebox.com/profile/418555"><img src="https://i.ibb.co/StccZFX/418555.png" alt="418555" border="0"></a>
+<br>
 
 Here are some of my participations in past CTFs, events, certificates and hackathon.
 I'm interested in Reverse Engineering and Pentesting in general.
 
-I like to **code** in Python 🐍, however I'm trying to expand my Programming Language with C/C++ and Go at the moment.
+I like to **code** in Python 🐍, however I'm expanding my Programming Language with C/C++ and Go at the moment.
 
 My **goal** for 2022 is to get used to PowerShell Commands, Windows API, more Bash scripting, reproduce more CVE, Active Directory, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
 
 For certificate, I'm aiming to score eJPT, Burp Suite Certified Practitioner, PNPT and CRTO by the end of this year.
 
-Currently incorporating reading at least 30 minutes before sleep as a habit for my self-growth.
+Currently incorporating reading at least 20 minutes before sleep as a habit for my self-growth.
 
 [//]:![HowToThinkFastAndSlow]
 <img src="https://user-images.githubusercontent.com/92495243/151209976-e6dffde9-cc4e-4502-9087-98f3cccbba1c.png"/>
