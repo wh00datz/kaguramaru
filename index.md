@@ -2,7 +2,7 @@
 ## "be the good one in these hard times"
 ![banenr](https://user-images.githubusercontent.com/92495243/141692617-d57afdff-e0a0-438e-bd90-6b254272a95a.png)
 <a href="https://tryhackme.com/p/kaguramaru"> <img src="https://tryhackme-badges.s3.amazonaws.com/kaguramaru.png" alt="TryHackMe" border="0" width="220" height="50"></a>
-<a href="https://blueteamlabs.online/public/user/8e6ecaad88cd735c6cd755"><img src="https://i.ibb.co/gb0VP4S/image.png" alt="image" border="0" width="220" height="50"></a>
+<a href="https://blueteamlabs.online/public/user/977d6eeb5f5ab9ceaa40db"><img src="https://i.ibb.co/gb0VP4S/image.png" alt="image" border="0" width="220" height="50"></a>
 <a href="https://app.hackthebox.com/profile/418555"><img src="https://i.ibb.co/StccZFX/418555.png" alt="418555" border="0"></a>
 <br>
 <a href="https://www.linkedin.com/in/azwan-izhar-20519b101/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
