@@ -10,20 +10,22 @@
 <br><br>
 
 Here are some of my participations in past CTFs, events, certificates and hackathon.
-I'm interested in Reverse Engineering and Pentesting in general.
 
-I like to **code** in Python🐍, however I'm expanding my Programming Language with C/C++ and Go at the moment.
+I'm interested in Reverse Engineering and Pentesting in general. 
 
-My **goal** for 2022 is to get used to ~~PowerShell Commands, Windows API,~~ more Bash scripting, reproduce more CVE, Active Directory, do more labs on TryHackMe, HackTheBox and Blue Team Labs Online. Hopefully I could do HTB Pro Labs too.
+I like to **code** in Python🐍, however I'm expanding my programming with C/C++ and Javascript at the moment.
 
-I have already familiarized myself with PowerShell Commands, a bit of Windows API as of 2023.
+My **goal** for 2024 is to get used to more industrial settings, participate in various CTF as well as relearning cybersecurity fundamentals.
 
-For certificate, I'm aiming to be able to obtain OSEP on the long run.
+I have already familiarized myself with PowerShell Commands, a bit of Windows API, C/C++ GUI Programming as of 2023
+
+For certificate, Of course I'm aiming to be able to obtain OSCP in the long run.
 
 ##### Currently incorporating reading at least 20 minutes before sleep as a habit for my self-growth.
 
 [//]:![HowToThinkFastAndSlow]
 <img src="https://user-images.githubusercontent.com/92495243/151209976-e6dffde9-cc4e-4502-9087-98f3cccbba1c.png"/>
+
 
 ## CERTIFICATIONS
 
