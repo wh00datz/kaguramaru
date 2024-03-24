@@ -29,6 +29,15 @@ For certificate, Of course I'm aiming to be able to obtain OSCP in the long run.
 
 ## CERTIFICATIONS
 
+## 2023
+
+Gave talks and workshops about Reverse Engineering under the program I was invited to as a speaker in Faculty of Computer Science and Information Technology, Universiti Putra Malaysia (UPM).
+![cert](https://github.com/kagura-maru/kaguramaru/assets/92495243/89431d00-460b-45ef-b2b5-13b4eacdc1ba)
+
+I became a lead challenge creator for 3108 CTF under BahteraSiber which was held on 30 August. 
+![Sijil Bahtera](https://github.com/kagura-maru/kaguramaru/assets/92495243/e0483d8d-161c-4f67-97a5-d8e555904765)
+
+
 ### Capture-The-Flags (CTFs)
 [//]:![HTB-Santa](https://user-images.githubusercontent.com/92495243/151197588-a134f24d-c24e-4727-b511-f66d1522aa9e.png)
 [//]:![Hack10@UNITEN](https://user-images.githubusercontent.com/92495243/151204811-e96d33ea-ddd0-4df6-9d23-6664e5ea8bf9.png)
