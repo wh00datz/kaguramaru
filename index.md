@@ -17,9 +17,9 @@ I like to **code** in Python🐍, however I'm expanding my programming with C/C+
 
 My **goal** for 2024 is to get used to more industrial settings, participate in various CTF as well as relearning cybersecurity fundamentals.
 
-I have already familiarized myself with PowerShell Commands, a bit of Windows API, C/C++ GUI Programming as of 2023
+I have already familiarized myself with some PowerShell Commands, a bit of Windows API, C/C++ GUI Programming as of 2023
 
-For certificate, Of course I'm aiming to be able to obtain OSCP in the long run.
+For certificate, Of course I'm aiming to be able to obtain OSCP in the long run, shorter realistic approach probably is PJPT or PNPT and CEH.
 
 ##### Currently incorporating reading at least 20 minutes before sleep as a habit for my self-growth.
 
